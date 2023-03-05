@@ -1,3 +1,3 @@
 ## Portfolio
 
-It's my first progect
+It's my first project
